@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import ruptures as rpt
 import psutil
 
 import os
