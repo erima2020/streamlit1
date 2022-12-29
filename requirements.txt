@@ -1,4 +1,3 @@
-gc
 datetime
 pandas
 numpy
