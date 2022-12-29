@@ -1,0 +1,11 @@
+os
+datetime
+pandas
+numpy
+scipy
+matplotlib
+statsmodels
+ruptures
+
+itertools
+recombinator
