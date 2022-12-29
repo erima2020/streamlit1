@@ -1,6 +1,8 @@
 datetime
+numpy==1.23
 pandas
 numpy
 scipy
 matplotlib
 statsmodels
+
