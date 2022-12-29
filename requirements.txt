@@ -6,5 +6,4 @@ matplotlib
 statsmodels
 ruptures
 
-itertools
 recombinator
